@@ -1,0 +1,58 @@
+```body {
+    background: url("https://static.pexels.com/photos/131723/pexels-photo-131723.jpeg") no-repeat;
+    background-size: cover;
+    /*    background-position:80% 20%;*/
+    height: 100%;
+}
+
+.Padding1 {
+    padding-top: 310px;
+}
+
+#Content-center {
+    text-align: center;
+}
+
+.forty-percent-line {
+    width: 40%;
+}
+
+.fonts-change {
+    font-size: 4em;
+    font-weight: 700;
+    color: white;
+}
+
+
+/*.fonts-change1 
+{
+    color:white;
+}*/
+
+
+/*.jumbotron {
+  margin-top: 0px;
+  position: relative;
+  top:280px;
+}*/
+
+
+/*body{
+    background:url("scott-webb-58622.jpg") no-repeat;
+    background-size:cover;
+    background-position:50% 50%;
+}
+*/
+
+a:hover {
+    color: #31D2E0;
+}
+
+a {
+    color: white;
+}
+
+.nav>li>a:focus,
+.nav>li>a:hover>.class {
+    background-color: rgb(255, 255, 255, 0);
+}```
